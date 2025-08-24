@@ -1,9 +1,6 @@
-- 👋 Hi, I’m @vdkaaa
-- 👀 I’m interested in learn more.
-- 🌱 I’m currently learning  nothing  interesting.
-- 💞️ I’m looking to collaborate on videogames.
-
-<!---
-vdkaaa/vdkaaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m **@vdkaaa**  
+- 🎮 Video Game & Virtual Reality Development Engineer  
+- 👀 Always eager to keep learning and exploring new technologies  
+- 🌱 Currently looking for new projects and collaboration opportunities  
+- 💞️ Open to working with different companies and teams in the video game industry  
+- 🕹️ Passionate gamer, especially **CS2**  
