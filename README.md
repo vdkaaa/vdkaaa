@@ -81,24 +81,29 @@
 
 ## 📚 Personal bootcamp
 
-Estoy llevando un bootcamp personal de 30 días para subir de nivel como ingeniero de videojuegos:
+I am currently running a personal 30-day bootcamp to level up as a game development engineer:
 
-- Semana 1: C# para gameplay (colecciones, LINQ, eventos, async)  
-- Semana 2: Matemáticas de gameplay (vectores, ángulos, lerp, easing, cámaras suaves)  
-- Semana 3: Patrones de diseño (Strategy, State, Observer, composición)  
-- Semana 4: Integración, arquitectura limpia y un pequeño gameplay framework
+- Week 1: C# for gameplay development including collections, LINQ, events and async patterns
 
-Este enfoque me ayuda a mantener disciplina, medir progreso y asegurar que cada proyecto nuevo tenga una base técnica sólida.
+- Week 2: Gameplay mathematics including vectors, angles, lerp, easing and smooth camera systems
+
+- Week 3: Design patterns including Strategy, State, Observer and composition based architecture
+
+- Week 4: Integration, clean architecture and building a small gameplay framework
+
+This approach helps me stay disciplined, track my progress and ensure every new project is built on a solid technical foundation.
 
 ---
 
 ## 🤝 Let us work together
 
-- ¿Necesitas prototipar un sistema de gameplay o una mecánica compleja en Unity?  
-- ¿Quieres apoyo técnico para un proyecto VR o una demo interactiva?  
-- ¿Buscas a alguien que combine código limpio, foco en jugador y rápida iteración?
+- Need to prototype a gameplay system or a complex mechanic in Unity
 
-Si te interesa colaborar, puedes contactarme por GitHub o agregar tu medio de contacto aquí.
+- Looking for technical support for a VR project or interactive demo
+
+- Searching for someone who combines clean code, player-first thinking and fast iteration
+
+If you are interested in collaborating, feel free to reach out through GitHub or include your preferred contact method here.
 
 <div align="center">
   <sub>
