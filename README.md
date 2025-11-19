@@ -44,37 +44,6 @@
 
 ---
 
-## 🧪 What I am working on
-
-<table>
-  <tr>
-    <td valign="top" width="50%">
-
-      <h3>🎮 Core Game Dev</h3>
-      <ul>
-        <li>Gameplay systems and tools in <strong>Unity C#</strong></li>
-        <li>State machines, event systems and modular interaction</li>
-        <li>Prototyping mechanics for horror, puzzle and experimental games</li>
-        <li>VR and immersive experiences focused on player feel</li>
-      </ul>
-
-    </td>
-    <td valign="top" width="50%">
-
-      <h3>🧱 Architecture & Learning</h3>
-      <ul>
-        <li>Personal bootcamp on C#, LINQ, events and async workflows</li>
-        <li>Gameplay math: vectors, lerp, easing and camera systems</li>
-        <li>Clean architecture and SOLID applied to Unity projects</li>
-        <li>Internal docs and katas to solidify long term skills</li>
-      </ul>
-
-    </td>
-  </tr>
-</table>
-
----
-
 ## 🛠 Tech stack
 
 <div align="center">
