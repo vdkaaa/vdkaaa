@@ -76,6 +76,24 @@
 
 <div align="center">
   <h2>Featured Projects</h2>
+<div align="center">
+  <h3>🎮 <a href="https://github.com/vdkaaa/vr-task-checklist-manager">VR Task & Checklist Manager</a></h3>
+  <p><em>Task sequencing system for VR training simulators · Unity Asset Store</em></p>
+</div>
+
+Production-ready task sequencing system for VR training simulators in Unity. 
+5 validation types, configurable scoring, JSON export and REST API interface. 
+Tested on Meta Quest 2 and Quest 3 via OpenXR.
+
+<div align="center">
+
+![Store](https://img.shields.io/badge/Unity%20Asset%20Store-Pending-lightgrey?style=flat-square&logo=unity)
+![Platform](https://img.shields.io/badge/Platform-Meta%20Quest-0467DF?style=flat-square&logo=meta)
+![Architecture](https://img.shields.io/badge/Architecture-SOLID%20%7C%20Strategy%20%7C%20Observer-239120?style=flat-square)
+![Tech](https://img.shields.io/badge/Tech-Unity%206%20%7C%20OpenXR%20%7C%20XRI-000000?style=flat-square&logo=unity)
+
+</div>
+  
 </div>
 
 <div align="center">
