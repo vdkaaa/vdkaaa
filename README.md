@@ -2,7 +2,7 @@
   <h1>Diego Santander Sepúlveda</h1>
   <h3>AR/VR Programmer · Unity / C# · XR Training & Simulation</h3>
   <p>
-    <a href="https://www.linkedin.com/in/diego-santander-sep%C3%BAlveda-748423341/">
+    <a href="https://www.linkedin.com/in/diego-santander-xr/">
       <img src="https://img.shields.io/badge/LinkedIn-Diego%20Santander-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="https://github.com/vdkaaa">
