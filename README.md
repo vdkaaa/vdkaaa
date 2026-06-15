@@ -25,7 +25,7 @@
   <p>AR/VR programmer with 5+ years building immersive training simulators, interactive XR experiences,<br/>
   and production-ready real-time applications. Deployed on Meta Quest.<br/>
   IEEE-published for a VR training system validated with real end-users.</p>
-  <p>Currently working as <strong>Junior Programmer at Fourdplan</strong> — designing modular simulation systems<br/>
+  <p>Currently working as <strong>Junior Programmer at Fourdplan</strong>  designing modular simulation systems<br/>
   with REST API integration, production-deployed from day one.</p>
 </div>
 
@@ -36,10 +36,10 @@
 | | |
 |:---:|:---|
 | 🥽 | Specialized in VR training simulators, real-time interaction, and XR performance optimization |
-| 🏗️ | Strong focus on clean architecture — SOLID principles, interface-driven systems, design patterns |
-| 📡 | Meta Quest deployment confirmed — OpenXR, XR Interaction Toolkit, AR Foundation |
-| 🌎 | 100% remote-ready — working remotely across 3 companies |
-| 🎓 | B.Eng. Video Game & VR Engineering — Universidad de Talca (2021–2025) |
+| 🏗️ | Strong focus on clean architecture  SOLID principles, interface-driven systems, design patterns |
+| 📡 | Meta Quest deployment confirmed  OpenXR, XR Interaction Toolkit, AR Foundation |
+| 🌎 | 100% remote-ready  working remotely across 3 companies |
+| 🎓 | B.Eng. Video Game & VR Engineering  Universidad de Talca (2021–2025) |
 
 </div>
 
@@ -98,7 +98,7 @@ Tested on Meta Quest 2 and Quest 3 via OpenXR.
 
 <div align="center">
   <h3>🔬 <a href="https://github.com/vdkaaa/xr-performance-lab">XR Performance Lab</a></h3>
-  <p><em>Modular XR performance testing system — Unity 6 / URP</em></p>
+  <p><em>Modular XR performance testing system  Unity 6 / URP</em></p>
 </div>
 
 A technical tool for running isolated, reproducible rendering experiments in Unity. Each experiment modifies one variable, holds the configuration while metrics stabilize, then restores state automatically via a guaranteed `try/finally` teardown.
@@ -141,7 +141,7 @@ End-to-end XR training simulator built and deployed on Meta Quest. Procedural L-
 
 <div align="center">
   <h3>🎭 MazeTerrorGame</h3>
-  <p><em>3D psychological horror — Unity 6 / URP</em></p>
+  <p><em>3D psychological horror  Unity 6 / URP</em></p>
 </div>
 
 3D horror game focused on atmosphere, pacing, and player tension. Built with Unity 6 and Universal Render Pipeline.
