@@ -25,7 +25,7 @@
   <p>AR/VR programmer with 5+ years building immersive training simulators, interactive XR experiences,<br/>
   and production-ready real-time applications. Deployed on Meta Quest.<br/>
   IEEE-published for a VR training system validated with real end-users.</p>
-  <p>Currently working as <strong>Junior Programmer at Fourdplan</strong>  designing modular simulation systems<br/>
+  <p>Currently working as <strong> Programmer at Fourdplan</strong>  designing modular simulation systems<br/>
   with REST API integration, production-deployed from day one.</p>
 </div>
 
