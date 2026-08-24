@@ -77,21 +77,26 @@
 <div align="center">
   <h2>Featured Projects</h2>
 <div align="center">
-  <h3>🎮 <a href="https://github.com/vdkaaa/vr-task-checklist-manager">VR Task & Checklist Manager</a></h3>
-  <p><em>Task sequencing system for VR training simulators · Unity Asset Store</em></p>
+  <h3>🏢 <a href="https://github.com/vdkaaa/xr-workspace">XR Rooms Meet</a></h3>
+  <p><em>Browser-first collaborative 3D workspace · Unity WebGL + React + WebXR</em></p>
 </div>
 
-Production-ready task sequencing system for VR training simulators in Unity. 
-5 validation types, configurable scoring, JSON export and REST API interface. 
-Tested on Meta Quest 2 and Quest 3 via OpenXR.
+Collaborative 3D workspace that runs in the browser — no installs, no store builds.
+Join from desktop or Meta Quest, see each other as avatars, talk over spatial voice,
+draw on a shared whiteboard, and get an AI session recap. Same URL for flat and
+immersive WebXR on Quest.
 
 <div align="center">
 
-![Store](https://img.shields.io/badge/Unity%20Asset%20Store-Pending-lightgrey?style=flat-square&logo=unity)
-![Platform](https://img.shields.io/badge/Platform-Meta%20Quest-0467DF?style=flat-square&logo=meta)
-![Architecture](https://img.shields.io/badge/Architecture-SOLID%20%7C%20Strategy%20%7C%20Observer-239120?style=flat-square)
-![Tech](https://img.shields.io/badge/Tech-Unity%206%20%7C%20OpenXR%20%7C%20XRI-000000?style=flat-square&logo=unity)
+![Live](https://img.shields.io/badge/Live-xr--workspace.vercel.app-646CFF?style=flat-square)
+![Platform](https://img.shields.io/badge/Platform-Desktop%20%7C%20Meta%20Quest-0467DF?style=flat-square&logo=meta)
+![Architecture](https://img.shields.io/badge/Architecture-Unity%20%2B%20React%20Bridge-239120?style=flat-square)
+![Tech](https://img.shields.io/badge/Tech-Unity%206%20%7C%20WebXR%20%7C%20WebGL%20%7C%20TypeScript-000000?style=flat-square&logo=unity)
 
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/vdkaaa/xr-workspace/develop/docs/images/room-desktop.jpg" alt="XR Rooms Meet — desktop view" width="800"/>
 </div>
   
 </div>
