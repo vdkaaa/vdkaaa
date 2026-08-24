@@ -100,9 +100,14 @@ Sequenced task validation, real-time tool interaction, and scoring built to gene
 
 ![Status](https://img.shields.io/badge/Status-In%20Development-F59E0B?style=flat-square)
 ![Tech](https://img.shields.io/badge/Tech-Unity%20%7C%20C%23%20%7C%20XR%20Toolkit-239120?style=flat-square)
-[![Devlog W1](https://img.shields.io/badge/Devlog-Architecture-FF0000?style=flat-square&logo=youtube)](https://youtu.be/iHikURdBGi0)
-[![Devlog W3](https://img.shields.io/badge/Devlog-Task%20Engine-FF0000?style=flat-square&logo=youtube)](https://youtu.be/3bBS7tSkMwc)
-[![Devlog W4](https://img.shields.io/badge/Devlog-Tool%20Interaction-FF0000?style=flat-square&logo=youtube)](https://youtu.be/VRM0nb1Rla4)
+![Platform](https://img.shields.io/badge/Platform-Meta%20Quest-0467DF?style=flat-square&logo=meta)
+
+<br/>
+
+| Week 1 · Architecture | Week 3 · Task Sequence Engine | Week 4 · Tool Interaction |
+|:---:|:---:|:---:|
+| [![Week 1](https://img.youtube.com/vi/iHikURdBGi0/hqdefault.jpg)](https://youtu.be/iHikURdBGi0) | [![Week 3](https://img.youtube.com/vi/3bBS7tSkMwc/hqdefault.jpg)](https://youtu.be/3bBS7tSkMwc) | [![Week 4](https://img.youtube.com/vi/VRM0nb1Rla4/hqdefault.jpg)](https://youtu.be/VRM0nb1Rla4) |
+| [Watch →](https://youtu.be/iHikURdBGi0) | [Watch →](https://youtu.be/3bBS7tSkMwc) | [Watch →](https://youtu.be/VRM0nb1Rla4) |
 
 </div>
 
@@ -119,6 +124,14 @@ End-to-end VR training simulator with procedural L-System tree generation, real-
 [![IEEE Paper](https://img.shields.io/badge/IEEE-Conference%202025-00629B?style=flat-square&logo=ieee)](https://ieeexplore.ieee.org/document/11420562)
 ![Platform](https://img.shields.io/badge/Platform-Meta%20Quest-0467DF?style=flat-square&logo=meta)
 ![Tech](https://img.shields.io/badge/Tech-L--Systems%20%7C%20Procedural%20Generation%20%7C%20OpenXR-239120?style=flat-square)
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/vdkaaa/diegosantander.github.io/main/img/Overview_PODARV.png" alt="PodaVR — VR pruning environment with procedural cherry trees" width="800"/>
+
+| L-System tree generation | Interactive pruning · Meta Quest |
+|:---:|:---:|
+| <img src="https://raw.githubusercontent.com/vdkaaa/diegosantander.github.io/main/img/Level1Tree.png" alt="PodaVR — Level 1 procedural tree" width="400"/> | <img src="https://raw.githubusercontent.com/vdkaaa/diegosantander.github.io/main/img/SetuopComplete.png" alt="PodaVR — VR pruning with virtual shears" width="400"/> |
 
 </div>
 
