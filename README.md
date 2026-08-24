@@ -10,7 +10,7 @@
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:diegosantander43@gmail.com)
 [![IEEE](https://img.shields.io/badge/IEEE-Published-00629B?style=for-the-badge&logo=ieee&logoColor=white)](https://ieeexplore.ieee.org/document/11420562)
 
-*Unity/C# AR/VR programmer · 5+ years · Production deployed · IEEE published · 100% Remote · Chile*
+*Unity/C# AR/VR programmer · 1+ years · Production deployed · IEEE published · 100% Remote · Chile*
 
 </div>
 
@@ -20,7 +20,7 @@
 
 <div align="center">
 
-AR/VR programmer with **5+ years** building immersive training simulators, interactive XR experiences, and production-ready real-time applications — deployed on **Meta Quest**. IEEE-published for a VR training system validated with real end-users.
+AR/VR programmer with **1+ years** building immersive training simulators, interactive XR experiences, and production-ready real-time applications — deployed on **Meta Quest**. IEEE-published for a VR training system validated with real end-users.
 
 Currently **Junior Programmer at Fourdplan**, designing modular simulation systems with REST API integration, production-deployed from day one.
 
