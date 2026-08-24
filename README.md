@@ -6,7 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Diego%20Santander-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-santander-xr/)
 [![GitHub](https://img.shields.io/badge/GitHub-vdkaaa-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vdkaaa)
-[![Portfolio](https://img.shields.io/badge/Portfolio-diegosantander.github.io-00E5A0?style=for-the-badge&logo=googlechrome&logoColor=white)](https://diegosantander.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-diegosantander.github.io-00E5A0?style=for-the-badge&logo=googlechrome&logoColor=white)](https://vdkaaa.github.io/diegosantander.github.io/)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:diegosantander43@gmail.com)
 [![IEEE](https://img.shields.io/badge/IEEE-Published-00629B?style=for-the-badge&logo=ieee&logoColor=white)](https://ieeexplore.ieee.org/document/11420562)
 
